@@ -15,7 +15,6 @@ This project presents a comprehensive analysis of the Indian economy from 1960 t
 - [Methodology](#-methodology)
 - [Key Results & Insights](#-key-results--insights)
 - [How to Run](#-how-to-run)
-- [Project Structure](#-project-structure)
 - [Key Visualizations](#-key-visualizations)
 - [Acknowledgements](#-acknowledgements)
 - [Contact](#-contact)
@@ -94,5 +93,33 @@ This project presents a comprehensive analysis of the Indian economy from 1960 t
 
 ---
 
-## 🗂️ Project Structure
+
+
+## 📊 Key Visualizations
+
+- Time evolution of GDP and GDP per capita (line/bar graphs)
+- Correlation heatmap of economic indicators
+- K-Means cluster assignment plots (GDP vs Inflation)
+- Actual vs Predicted plots and ARIMA forecast graphs
+
+---
+
+## 🙏 Acknowledgements
+
+- **Mentor:** Mr. N. Rakesh, Department of Statistics, PBS College
+- **Industry Partner:** Codegnan IT Solutions, Vijayawada
+- **Academic:** Parvathaneni Brahmayya Siddhartha College of Arts and Science
+
+---
+
+## 📬 Contact
+
+**Author:** Mudili Pradeep  
+**Degree:** B.Sc. (Statistics), 2025 
+**Phone:**+91 9014628229
+**Email:** pradeepmudili4@gmail.com
+**LinkedIn:**https://linkedin.com/in/pradeep-mudili-0bbaba248
+
+---
+
 
